@@ -28,7 +28,7 @@ export default function Home() {
       </div>
       <EditorProvider isToolbar={isFull} allowPlugins={isFull ? PLUGIN_DEFAULTS : []}  >
         {!isFull && <Export />}
-        <CoreEditor className="bg-gray-50 !px-6" />
+        <CoreEditor className="bg-gray-50 !pr-6 pl-24" />
       </EditorProvider>
     </div>
   );
