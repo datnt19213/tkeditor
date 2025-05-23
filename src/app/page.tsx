@@ -21,8 +21,8 @@ export default function Home() {
           <button type="button" className="min-w-40 text-sm cursor-pointer font-medium px-3 py-2 bg-white border border-gray-500 rounded-md" onClick={() => setIsFull(!isFull)} >
             {isFull ? 'All' : 'Only Export'}
           </button>
-          <a href='https://github.com/datnt19213/tkeditor' target="_blank" rel="noreferrer" className="min-w-40 text-sm cursor-pointer font-medium px-3 text-white py-2 bg-[#121217] border border-gray-500 rounded-md">
-            Github
+          <a href='https://github.com/datnt19213/tkeditor' target="_blank" rel="noreferrer" className="min-w-40 text-sm flex items-center justify-center cursor-pointer font-medium px-3 text-white py-2 bg-[#121217] border border-gray-500 rounded-md">
+            Github&nbsp;⭐️
           </a>
         </div >
       </div>
