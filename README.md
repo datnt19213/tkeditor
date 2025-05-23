@@ -3,8 +3,8 @@
 
 TKEditor is a powerful and extensible rich text editor built with Next.js, Plate.js, and a suite of modern technologies. It offers a comprehensive editing experience with AI-powered features, seamless file uploads, and a highly customizable plugin-based architecture.
 
-<p align="center"><img src="https://lh6.googleusercontent.com/BdWi_JE5J-OIaf_1E-uDSsPk9kqeRwAlk6c-dxVXram549JUXzKL4Mqrf5tOCEUuAZ09MT4xNFP2NyHONXMRdjE9lEXouB0JYq29kyrvnaMOyZqb2BnXUcmucZxD9RdAqg=w1280" width='320px' /></>
+<p align="center"><img src="https://live.staticflickr.com/65535/54538881909_1feb28856a_n.jpg" width="320" height="320" alt="TKEditor NPM Package Logo"/></p>
 
-[![NPM Downloads](https://img.shields.io/npm/dm/tkeditor.svg)](https://www.npmjs.com/package/tkeditor)
+<p align="center"><a href="https://www.npmjs.com/package/tkeditor"><strong>NPM Package</strong></a></p>
 
 
